@@ -1,4 +1,6 @@
-# Brain Cancer Gene Expression
+# Brain Cancer Gene Expression using Neural Networks
+
+Our objective is to use neural networks to predict the class of gene expression in Brain Cancer dataset.
 
 # Table of Contents
 
@@ -6,9 +8,11 @@
 
 [Model](#model-training)
 
+<!-- [Presentation](#presentation) -->
+
 # Dataset
 
-You can download the [Brain cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/brain-cancer-gene-expression-cumida) dataset directly from Kaggle: , or you can download it in CSV format from [here](https://sbcb.inf.ufrgs.br/cumida) as shown in the following screenshot:
+You can download the [Brain cancer gene expression (GSE50161) - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/brain-cancer-gene-expression-cumida) dataset directly from Kaggle: , or you can download it in CSV format from [here](https://sbcb.inf.ufrgs.br/cumida) as shown in the following screenshot:
 
 ![Screenshot 2023-04-06 at 3 03 07 PM](https://user-images.githubusercontent.com/92266474/230482877-ca8a4463-5517-4d9b-ab08-f86ec51598e3.png)
 
@@ -35,4 +39,7 @@ The training accuracy and loss were plotted using Plotly as shown below:
 The test accuracy of the final model was 61% as shown below:
 
 ![test-acc](/Screenshots/test-acc.png)
+
+
+<!-- # Presentation -->
 
