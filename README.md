@@ -22,7 +22,7 @@ The model layers were defined as shown in the following screenshot:
 
 Additional model parameters were employed for better training:
 
-[!model-additional-parameters](/Screenshots/model-additional-parameters.png)
+![model-additional-parameters](/Screenshots/model-additional-parameters.png)
 
 The model summmary is shown in the following screenshot:
 
